@@ -637,7 +637,7 @@ export const MyReactNativeForm = props => (
 
 #### Avoiding new functions in render
 
-If for a any reason you wish to avoid creating new functions on each render, I
+If for any reason you wish to avoid creating new functions on each render, I
 suggest treating React Native's `<TextInput/>` as if it were another 3rd party
 custom input element:
 
